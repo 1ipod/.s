@@ -1,1 +1,1 @@
-# .s-and-goodsoft
+# my dotfiles and suckless software 
